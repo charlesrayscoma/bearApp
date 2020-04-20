@@ -1,2 +1,2 @@
 # bearApp
-https://hub.gke.mybinder.org/user/charlesrayscoma-bearapp2-b3bnlgm5/voila/render/Chap2BearApp.ipynb?token=M5IIC3dyQdO3DeNuvN7Lhw
+https://mybinder.org/v2/gh/charlesrayscoma/bearApp2/master?urlpath=%2Fvoila%2Frender%2FChap2BearApp.ipynb
